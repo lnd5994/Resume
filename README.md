@@ -1,1 +1,1 @@
-# Sudoku
+# CheapTix
